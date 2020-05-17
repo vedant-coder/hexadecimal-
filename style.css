@@ -1,0 +1,12 @@
+h1{ color : brown}
+ * {border : solid }
+ .header {
+     background-color : #404040 ;
+justify-content : center ;
+text-align : center ;
+ }
+ .grid {
+     background-color: rgb(64, 64, 64) ;
+     justify-content: center ;
+     text-align: center ;
+ }
